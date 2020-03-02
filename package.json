@@ -1,0 +1,12 @@
+{
+  "name": "npmpackage",
+  "version": "1.0.0",
+  "description": "A simple utility library that lists Nigeria states and local governments.",
+  "keywords":"Nigeria,States,Country,Local Government, Nodejs, Vue, Angular, React,Capital,City,Lga,Local-government" ,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Olamide Samuel (gold-olar)",
+  "license": "MIT"
+}
